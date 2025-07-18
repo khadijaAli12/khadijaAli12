@@ -5,7 +5,6 @@
   <ul>
     <li>🔭 I’m currently working on <strong>Mobile Application Development</strong></li>
     <li>🌱 I’m currently learning <strong>Django, ROR, JIRA, Java, Kotlin</strong></li>
-    <li>👯 I’m looking to collaborate on <a href="https://github.com/lumber1ghauri/personal_Finance_Tracker" target="_blank">FinanceTrackerApp</a></li>
     <li>👨‍💻 All of my projects are available at <a href="https://github.com/khadijaAli12" target="_blank">GitHub</a></li>
     <li>💬 Ask me about <strong>React, Data Structures, Python Packages</strong></li>
     <li>📫 How to reach me: <strong>khadijaali5858@gmail.com</strong></li>
