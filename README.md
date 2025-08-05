@@ -1,5 +1,60 @@
-# 💫 About Me:
-About Me:<br>Currently building:<br>AI-integrated platforms including an interactive DSA learning tool and a real-time women’s safety application with geolocation and emergency alert features.<br><br>Open to collaborating on:<br>Scalable React/MERN projects, AI-driven tools, and platforms that prioritize real-world impact.<br><br>Seeking support with:<br>Optimizing backend systems, distributed architecture, and advanced AI integration for production-level applications.<br><br>Currently learning:<br>System design, high-performance full-stack development, and deep-diving into complex DSA patterns.<br><br>Talk to me about:<br>React architecture, MERN workflows, transforming DSA into interactive systems, and deploying AI in practical environments.<br><br>Fun fact:<br>I build projects that solve real problems — not just portfolio fillers. Every line of code has a purpose.
+# 👋 About Me
+
+```ascii
+╔══════════════════════════════════════════════════════════════╗
+║                    Welcome to my GitHub!                    ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+## 🚀 **Who Am I?**
+
+**Passionate IT Enthusiast** | **Modern Tech Explorer** | **AI Integration Specialist**
+
+I'm a dedicated **Information Technology** professional with a deep fascination for cutting-edge technologies and their practical applications. My journey revolves around bridging the gap between traditional software development and the exciting world of **Artificial Intelligence**.
+
+---
+
+## 💻 **What I Do**
+
+🔹 **`IT & Modern Technology`** - Crafting robust solutions with contemporary tech stacks  
+🔹 **`AI Integration Projects`** - Building intelligent applications that solve real-world problems  
+🔹 **`Innovation & Development`** - Transforming ideas into functional, AI-powered software  
+🔹 **`Tech Exploration`** - Constantly learning and experimenting with emerging technologies  
+
+---
+
+## 🛠️ **Current Focus**
+
+```yaml
+Working_On: "AI-integrated applications and modern web solutions"
+Learning: "Advanced AI/ML integration techniques and cloud technologies"
+Collaborating: "Open source projects that combine traditional IT with AI capabilities"
+Building: "Projects that showcase the power of AI in everyday applications"
+```
+
+---
+
+## 🎯 **My Mission**
+
+> **"Democratizing AI through practical, accessible applications"**
+
+I believe in making AI technology approachable and useful for everyone. My projects focus on creating seamless integrations that enhance user experiences without overwhelming complexity.
+
+---
+
+## 🌟 **Let's Connect!**
+
+- 💡 **Ask me about:** AI integration, modern web development, or tech innovations
+- 🤝 **Looking to collaborate on:** Open source AI projects and modern tech solutions  
+- 💬 **Fun fact:** I turn coffee into code and ideas into AI-powered realities ☕➡️🤖
+
+---
+
+<div align="center">
+
+**"Building the future, one AI integration at a time"** 🚀
+
+</div>
 
 
 ## 🌐 Socials:
