@@ -1,11 +1,11 @@
 
 ```ascii
 ╔══════════════════════════════════════════════════════════════╗
-║                    👋 Welcome to my GitHub!                    ║
+║                 ##   👋 Welcome to my GitHub!                    ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-## 🚀 **Who Am I?**
+##  **Who Am I?**
 
 **Passionate IT Enthusiast** | **Modern Tech Explorer** | **AI Integration Specialist**
 
@@ -13,7 +13,7 @@ I'm a dedicated **Information Technology** professional with a deep fascination 
 
 ---
 
-## 💻 **What I Do**
+##  **What I Do**
 
 🔹 **`IT & Modern Technology`** - Crafting robust solutions with contemporary tech stacks  
 🔹 **`AI Integration Projects`** - Building intelligent applications that solve real-world problems  
@@ -22,7 +22,7 @@ I'm a dedicated **Information Technology** professional with a deep fascination 
 
 ---
 
-## 🛠️ **Current Focus**
+##  **Current Focus**
 
 ```yaml
 Working_On: "AI-integrated applications and modern web solutions"
@@ -33,7 +33,7 @@ Building: "Projects that showcase the power of AI in everyday applications"
 
 ---
 
-## 🎯 **My Mission**
+##  **My Mission**
 
 > **"Democratizing AI through practical, accessible applications"**
 
@@ -41,17 +41,17 @@ I believe in making AI technology approachable and useful for everyone. My proje
 
 ---
 
-## 🌟 **Let's Connect!**
+##  **Let's Connect!**
 
-- 💡 **Ask me about:** AI integration, modern web development, or tech innovations
-- 🤝 **Looking to collaborate on:** Open source AI projects and modern tech solutions  
-- 💬 **Fun fact:** I turn coffee into code and ideas into AI-powered realities ☕➡️🤖
+-  **Ask me about:** AI integration, modern web development, or tech innovations
+-  **Looking to collaborate on:** Open source AI projects and modern tech solutions  
+-  **Fun fact:** I turn coffee into code and ideas into AI-powered realities
 
 ---
 
 <div align="center">
 
-**"Building the future, one AI integration at a time"** 🚀
+**"Building the future, one AI integration at a time"** 
 
 </div>
 
