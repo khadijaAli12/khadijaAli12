@@ -41,11 +41,7 @@ I believe in making AI technology approachable and useful for everyone. My proje
 
 ---
 
-##  **Let's Connect!**
 
--  **Ask me about:** AI integration, modern web development, or tech innovations
--  **Looking to collaborate on:** Open source AI projects and modern tech solutions  
--  **Fun fact:** I turn coffee into code and ideas into AI-powered realities
 
 ---
 
