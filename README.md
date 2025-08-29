@@ -40,7 +40,11 @@ Building: "Projects that showcase the power of AI in everyday applications"
 I believe in making AI technology approachable and useful for everyone. My projects focus on creating seamless integrations that enhance user experiences without overwhelming complexity.
 
 ---
+##  **Let's Connect!**
 
+-  **Ask me about:** AI integration, modern web development, or tech innovations
+-  **Looking to collaborate on:** Open source AI projects and modern tech solutions  
+-  **Fun fact:** I turn coffee into code and ideas into AI-powered realities
 
 
 ---
