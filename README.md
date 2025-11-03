@@ -26,11 +26,11 @@ Bridging traditional software development with cutting-edge AI technologies to b
 ---
 
 ## **Current Focus**
-- 🔭 **Building** AI-integrated React applications
-- 🌱 **Learning** React 18+ features and advanced patterns
-- 🚀 **Developing** React component libraries
-- 🤝 **Open** to collaboration on React/AI projects
-- 💡 **Passionate** about React performance and best practices
+-  **Building** AI-integrated React applications
+-  **Learning** React 18+ features and advanced patterns
+-  **Developing** React component libraries
+-  **Open** to collaboration on React/AI projects
+-  **Passionate** about React performance and best practices
 
 ---
 
