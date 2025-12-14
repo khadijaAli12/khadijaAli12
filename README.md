@@ -1,12 +1,12 @@
 <div align="center">
 <strong>Hey, I’m Khadija 👋</strong>
 </div>
-
-<br><br>
+<br>
 I build web applications, learn by creating projects, and grow through hands-on experience.  
 Passionate about frontend architecture and using AI in real-world solutions.  
 
 <br>
+
 
 💻 **Tech Stack:**  
 <br>
@@ -28,18 +28,6 @@ Passionate about frontend architecture and using AI in real-world solutions.
 [![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)]() 
 [![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white)]() 
 [![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)]() 
-
-<br>
-
-🔗 **Connect:**  
-<br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khadija-ali-6a431b269/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khadijaali5858@gmail.com)  
-
-<br>
-
 <div align="center">
 ⚛️  <strong>Building intelligent UIs with React & AI</strong> 🤖
 </div>
-
-<br>
